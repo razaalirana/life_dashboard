@@ -48,8 +48,8 @@ A Streamlit application that visualizes how you have spent your time so far in l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/life-time-dashboard.git
-   cd life-time-dashboard
+   git clone https://github.com/razaalirana/life_dashboard.git
+   cd life_dashboard
    ```
 
 2. (Optional) Create and activate a virtual environment:
