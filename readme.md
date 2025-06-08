@@ -2,6 +2,11 @@
 
 A Streamlit application that visualizes how you have spent your time so far in life and projects how you will spend the rest of your life based on your daily habits. Ideal for self-reflection, time management, and showcasing data skills in your portfolio.
 
+## Live Demo
+
+Experience the dashboard live at:
+[https://lifedashboardapppy-jf2tc6rey4gm2ie5uq7dfl.streamlit.app](https://lifedashboardapppy-jf2tc6rey4gm2ie5uq7dfl.streamlit.app)
+
 ---
 
 ## Table of Contents
